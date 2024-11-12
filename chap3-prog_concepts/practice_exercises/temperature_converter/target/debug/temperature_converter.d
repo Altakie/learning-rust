@@ -1,0 +1,1 @@
+/home/Altakie/Documents/Hacking/Learning/rust/chap3-prog_concepts/practice_exercises/temperature_converter/target/debug/temperature_converter: /home/Altakie/Documents/Hacking/Learning/rust/chap3-prog_concepts/practice_exercises/temperature_converter/src/main.rs

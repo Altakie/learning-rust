@@ -1,0 +1,1 @@
+/home/Altakie/Documents/Hacking/Learning/rust/chap3-prog_concepts/practice_exercises/fibonacci/target/debug/fibonacci: /home/Altakie/Documents/Hacking/Learning/rust/chap3-prog_concepts/practice_exercises/fibonacci/src/main.rs

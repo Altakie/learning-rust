@@ -1,0 +1,1 @@
+/home/Altakie/Documents/Hacking/Learning/rust/chap3-prog_concepts/practice_exercises/christmas_carol/target/debug/christmas_carol: /home/Altakie/Documents/Hacking/Learning/rust/chap3-prog_concepts/practice_exercises/christmas_carol/src/main.rs
